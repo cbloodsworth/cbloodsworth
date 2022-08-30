@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbloodsworth
-- 👀 I’m interested in game development and algorithms
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in software development and machine learning
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on anything as a learning experience!
 - 📫 How to reach me: via christopherbloodsworth@gmail.com
 
