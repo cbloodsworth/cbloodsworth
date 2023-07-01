@@ -1,6 +1,9 @@
-Hi! My name is Chris Bloodsworth. I am a computer science student with a minor in mathematics and my focus is software engineering.
+Hi! My name is Chris Bloodsworth. I am a computer science student with a minor in mathematics and I'm super passionate about software.
 
-I'm mainly proficient in C++ and Python, but I have experience with Java, Javascript, and HTML/CSS. I am using C++/Javascript in my university projects, but use python for small-scale scripts to help with personal productivity.
+I generally am most excited about working on devtools / libraries, though I'm interested in learning about most areas of development.
+
+I'm mainly proficient in C++ and Python, but I have experience with a number of other languages and tools. 
+Python is cool if I want something made quick and effective, but there's something about the elegance of modern C++ that just feels perfect when done right ;)
 
 A prettier looking portfolio of some of my best work is at https://cbloodsworth.github.io. Be sure to check it out!
 
