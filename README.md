@@ -1,9 +1,4 @@
-Hi! My name is Chris Bloodsworth. I am a computer science student with a minor in mathematics and I'm super passionate about software.
-
-I generally am most excited about working on devtools / libraries, though I'm interested in learning about most areas of development.
-
-I'm mainly proficient in C++ and Python, but I have experience with a number of other languages and tools. 
-Python is cool if I want something made quick and effective, but there's something about the elegance of modern C++ that just feels perfect when done right ;)
+Hi! My name is Chris Bloodsworth. I am ecstatic about software development and design, and having interesting discussions with awesome people.
 
 A prettier looking portfolio of some of my best work is at https://cbloodsworth.github.io. Be sure to check it out!
 
